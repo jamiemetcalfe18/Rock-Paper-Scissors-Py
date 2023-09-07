@@ -34,3 +34,5 @@ while player == False:
     #player was set to True, but we want it to be False so the loop continues
     player = False
     computer = t[randint(0,2)]
+
+#yay first python project
